@@ -7,7 +7,8 @@ export default class App extends React.Component {
     super(props);
     this.state = {
       text: '',
-      text2: ''
+      text2: '',
+      str: ''
     }
   }
 
